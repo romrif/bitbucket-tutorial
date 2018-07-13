@@ -1,2 +1,2 @@
-first line)
-second change
+changes from cmd
+test diff. change 2

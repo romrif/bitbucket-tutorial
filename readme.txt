@@ -8,3 +8,4 @@ test diff 4
 start stash 1
 
 stash 2 change
+stash 3
